@@ -3,7 +3,7 @@ Personal site under [GitHub domain](https://braulioberlanga.github.io/personal-w
 
 ## Description
 
-My site 
+My site.
 
 ### Dependencies
 
